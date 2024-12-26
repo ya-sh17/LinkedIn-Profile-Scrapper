@@ -1,0 +1,13 @@
+prefix=D:/LinkedIn-Profile-Scrapper-in-Python-master/venv/Library
+exec_prefix=D:/LinkedIn-Profile-Scrapper-in-Python-master/venv/Library
+libdir=D:/LinkedIn-Profile-Scrapper-in-Python-master/venv/Library/lib
+sharedlibdir=D:/LinkedIn-Profile-Scrapper-in-Python-master/venv/Library/lib
+includedir=D:/LinkedIn-Profile-Scrapper-in-Python-master/venv/Library/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}

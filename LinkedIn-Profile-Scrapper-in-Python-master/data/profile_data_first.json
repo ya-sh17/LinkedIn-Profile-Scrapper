@@ -1,0 +1,41 @@
+{
+    "name": "Bill Gates",
+    "url": "https://www.linkedin.com/in/williamhgates/",
+    "headline": "Chair, Gates Foundation and Founder, Breakthrough Energy",
+    "about": "Chair of the Bill & Melinda Gates Foundation. Founder of Breakthrough Energy. Co-founder of Microsoft. Voracious reader. Avid traveler. Active blogger.Chair of the Bill & Melinda Gates Foundation. Founder of Breakthrough Energy. Co-founder of Microsoft. Voracious reader. Avid traveler. Active blogger.",
+    "experience": [
+        {
+            "company_name": "Co-chair",
+            "duration": "Bill & Melinda Gates Foundation",
+            "designations": []
+        },
+        {
+            "company_name": "Founder",
+            "duration": "Breakthrough Energy",
+            "designations": []
+        },
+        {
+            "company_name": "Co-founder",
+            "duration": "Microsoft",
+            "designations": []
+        }
+    ],
+    "education": [
+        {
+            "college": "Harvard University",
+            "degree": "1973 - 1975",
+            "duration": "NaN",
+            "project": "NaN"
+        },
+        {
+            "college": "Lakeside School",
+            "degree": "NaN",
+            "duration": "NaN",
+            "project": "NaN"
+        }
+    ],
+    "licenses": [],
+    "projects": [],
+    "courses": [],
+    "honors_and_awards": []
+}
